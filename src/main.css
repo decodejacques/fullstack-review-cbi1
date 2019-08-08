@@ -1,0 +1,7 @@
+body {
+    background-color: #bbb;
+}
+
+.chat-and-users {
+    display:flex;
+}
